@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "644A7161-1254-4020-9692-52B16C5D2FB8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW8/Task1ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Task1ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 92c08d4f0419684f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.currentIndex.getter : Swift.Int"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 3a84e93d2bb9a443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.currentIndex.setter : Swift.Int"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 6eb81a99b81fb204"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.currentIndex.modify : Swift.Int"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 664bb31edf079743"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.currentIndex.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 3e7dad3f971c35c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HW8.Task1ViewController"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "518">
+               </Location>
+               <Location
+                  uuid = "7C4A8D0D-1D7D-447E-98E6-8BC107E0C577 - 85741ac306299aa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW8.Task1ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HW8.Task1ViewController&gt;"
+                  moduleName = "HW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/antonlevkin/Documents/SkillBox/iOS%20Developer/HW/HW8/HW8/Task1ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "453">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
